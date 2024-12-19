@@ -1,0 +1,100 @@
+#
+#
+#
+
+newmtl ALFIERE02 Mesh_wooddark3
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark3.jpg
+
+newmtl ALFIERE3 Mesh_woodlight3
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight3.jpg
+
+newmtl Object02 Mesh_wooddark2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark2.jpg
+
+newmtl Object3 Mesh_woodlight2
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight2.jpg
+
+newmtl PEDONE12 Mesh_wooddark0
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark0.jpg
+
+newmtl PEDONE13 Mesh_woodlight0
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight0.jpg
+
+newmtl RE01 Mesh_wooddark5
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark5.jpg
+
+newmtl RE2 Mesh_woodlight5
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight5.jpg
+
+newmtl REGINA01 Mesh_wooddark4
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark4.jpg
+
+newmtl REGINA2 Mesh_woodlight4
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight4.jpg
+
+newmtl TORRE02 Mesh_wooddark1
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.161551 0.041366 0.002207
+Ks 0.623529 0.639216 0.560784
+Ns 4.737720
+map_Kd wooddark1.jpg
+
+newmtl TORRE3 Mesh_woodlight1
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.646162 0.565369 0.434441
+Ks 0.623529 0.639216 0.560784
+Ns 37.007099
+map_Kd woodlight1.jpg
+
